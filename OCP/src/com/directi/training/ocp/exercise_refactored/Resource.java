@@ -5,7 +5,7 @@ public abstract class Resource
 
     public abstract void markSlotFree(int resourceId);
     public abstract void markSlotBusy(int resourceId);
-    private abstract int findFreeSlot();
+    public abstract int findFreeSlot();
 
 
 
