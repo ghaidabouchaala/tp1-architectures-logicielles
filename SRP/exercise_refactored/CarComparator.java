@@ -1,4 +1,4 @@
-package exercice_refactored;
+package exercise_refactored;
 
 public class CarFormatter
 {

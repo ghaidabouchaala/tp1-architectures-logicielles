@@ -2,14 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46aadd95-17df-4afe-852c-26c10c7801e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/EncodingModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/EncodingModuleClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/IReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/IWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/MyDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/MyFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/MyFileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/MyNetworkReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/DIP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/example/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/example/Lamp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/example_refactored/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/example_refactored/Equipment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/example_refactored/Fan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/example_refactored/Lamp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise/EncodingModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise/EncodingModuleClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise/MyDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise/beforeEncryption.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/EncodingModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/EncodingModuleClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/IReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/IWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/MyDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/MyFileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/MyFileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIP/src/com/directi/training/dip/exercise_refactored/MyNetworkReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/.idea/ISP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/ISP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/example/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/example/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/example/MessHall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/example/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/example/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/example_refactored/FloorManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/example_refactored/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/example_refactored/IEater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/example_refactored/IWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/example_refactored/MessHall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/example_refactored/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/exercise/Door.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/exercise/SensingDoor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/exercise/Sensor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/exercise/TimedDoor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/exercise/Timer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/exercise_refactored/Door.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/exercise_refactored/SensingDoor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/exercise_refactored/Sensor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/exercise_refactored/SensorClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/exercise_refactored/TimedDoor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/exercise_refactored/Timer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISP/src/com/directi/training/isp/exercise_refactored/TimerClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/.idea/LSP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/LSP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/example/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/example/RectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/example/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/example_refactored/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/example_refactored/RectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/example_refactored/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/example_refactored/SquareTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/exercise/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/exercise/ElectronicDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/exercise/Pool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/exercise_refactored/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/exercise_refactored/ElectronicDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP/src/com/directi/training/lsp/exercise_refactored/Pool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/.idea/OCP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/OCP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/example/AreaCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/example/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/example/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/example/ShapeType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/example/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/example_refactored/AreaCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/example_refactored/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/example_refactored/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/example_refactored/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/exercise/ResourceAllocator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/exercise/ResourceType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/exercise_refactored/Resource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/exercise_refactored/ResourceAllocator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/exercise_refactored/SpaceAllocator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCP/src/com/directi/training/ocp/exercise_refactored/TimeAllocator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/.idea/SRP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/SRP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/src/com/directi/training/srp/example/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/src/com/directi/training/srp/example_refactored/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/src/com/directi/training/srp/example_refactored/EmployeeFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/src/com/directi/training/srp/exercise/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/src/com/directi/training/srp/exercise/CarManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/src/com/directi/training/srp/exercise_refactored/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/src/com/directi/training/srp/exercise_refactored/CarComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/src/com/directi/training/srp/exercise_refactored/CarFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRP/src/com/directi/training/srp/exercise_refactored/CarManager.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665665632951</updated>
-      <workItem from="1665665655055" duration="6664000" />
+      <workItem from="1665665655055" duration="7322000" />
     </task>
     <servers />
   </component>

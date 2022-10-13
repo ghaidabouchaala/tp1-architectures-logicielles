@@ -1,4 +1,4 @@
-package srp.exercise;
+package exercise_refactored;
 
 import java.util.Arrays;
 import java.util.List;
